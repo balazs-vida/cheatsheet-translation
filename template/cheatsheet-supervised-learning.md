@@ -78,7 +78,7 @@
 
 **14. [Linear regression, Logistic regression, SVM, Neural Network]**
 
-&#10230;
+&#10230; [Lineáris regresszió, Logisztikus regresszió, SVM, Neurális hálózat]
 
 <br>
 
